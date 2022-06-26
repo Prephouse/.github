@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to Prephouse. We are part of the UWaterloo Computer Engineering class of 2022, and this is our Final Year Design Project.
+Welcome to Prephouse! We are part of the UWaterloo Computer Engineering class of 2022, and this is our Final Year Design Project (FYDP).
 
 #### Introduction
 
